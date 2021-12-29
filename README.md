@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elainecui
 - 👀 I’m interested in ... the intersection of finance and tech
-- 🌱 I’m currently learning ... java data structures
+- 🌱 I’m currently learning ... Java data structures
 - 💞️ I’m looking to collaborate on ... an internship for summer 2022
 - 📫 How to reach me ... ec4120@stern.nyu.edu
 
